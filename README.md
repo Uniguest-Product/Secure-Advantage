@@ -36,4 +36,4 @@
 * SE-1505 & 1558, Mac Screensave on system idle
 * SE-1044, Suppress updates on session start for Mac
 * SE-1555, Whitescreen issue for low connectivity systems
-* SE-1537, Default WeatherURL to Lat/Long
+
