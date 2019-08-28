@@ -5,7 +5,7 @@
         *	  Update fleets in bulk with respect to Flag, Brand, and Location.
         *	  Make minute changes to individual assets.
         *   Reference assets in cases to make reporting and tracking escalations easier
-        *	  GBC is completely gone, no more wondering where an asset lives! 
+        *	  GBC is completely gone, now less mysterious broken assets! 
         ![Blink Blink](BlinkBlink.gif)
    *	Completely New Backend.  
          *   More secure and robust against threats near and far.
