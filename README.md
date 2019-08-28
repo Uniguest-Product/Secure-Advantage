@@ -10,7 +10,7 @@
    *	Completely New Backend.  
          *   More secure and robust against threats near and far.
    *	All endpoints require a subscription key to accept a request from the client! Not just anyone can send requests to the backend now, you’ve got to be on the list!  
-         * Completely scalable cloud architecture! (Shiny!) 
+    * Completely scalable cloud architecture! (Shiny!) 
          ![Shiny](https://media.giphy.com/media/Cr7yTbjNuY27C/giphy.gif)
          *	The more instances of SA10 that are added, the more the system automatically scales and allocates processing power on the servers.
    *	New Registration experience for the new SA10!
