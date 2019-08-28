@@ -16,7 +16,7 @@
    *	Bolded cost and time values in rate card details for TOU so it’s more obvious how much time, service, or other benefits/services are being charged for.
    *	Transaction Lookup Tool now has a new UI with an improved experience! 
    * Session Details are now organized by date/time rather than First In last out order  
-   
+
 
 
 *	Windows Client
