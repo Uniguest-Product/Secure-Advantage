@@ -1,5 +1,5 @@
 ## SA10 V3.1
-*	Platform
+*	### Platform
     *	Fully Configurable in Salesforce!! - A first in Uniguest History!  
         *	  Manage Assets remotely from the platform you all know and love.
         *	  Update fleets in bulk with respect to Flag, Brand, and Location.
@@ -19,12 +19,12 @@
 
 
 
-*	Windows Client
+*	### Windows Client
     *	Added Serial Number to the help window.
     *	Override for Printer Name, if it’s just a B&W printer, we won’t charge for color prints!
 
 
-*	Mac Client
+*	### Mac Client
     *	Support for Deepfreeze included in 10.14.
 
 ### Support Escalations Adddressed by the 3.1 Release
