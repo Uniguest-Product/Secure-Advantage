@@ -29,6 +29,7 @@
 
 ### Support Escalations Adddressed by the 3.1 Release
 * SE-1316, Session header for TOU on BPS Kiosks
-* SE- 1505 & 1558, Mac Screensave on system idle
+* SE-1505 & 1558, Mac Screensave on system idle
 * SE-1044, Suppress updates on session start for Mac
 * SE-1555, Whitescreen issue for low connectivity systems
+* SE-1537, Default WeatherURL to Lat/Long
