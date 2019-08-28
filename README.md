@@ -1,11 +1,13 @@
 ## SA10 V3.1
 *	### Platform
     *	Fully Configurable in Salesforce!! - A first in Uniguest History!  
+    ![Jonah Hill Screaming](http://giphygifs.s3.amazonaws.com/media/5GoVLqeAOo6PK/giphy.gif)
         *	  Manage Assets remotely from the platform you all know and love.
         *	  Update fleets in bulk with respect to Flag, Brand, and Location.
         *	  Make minute changes to individual assets.
         *   Reference assets in cases to make reporting and tracking escalations easier
         *	  GBC is completely gone, no more wondering where an asset lives! 
+        ![Blink Blink](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
    *	Completely New Backend.  
          *   More secure and robust against threats near and far.
    *	All endpoints require a subscription key to accept a request from the client! Not just anyone can send requests to the backend now, you’ve got to be on the list!  
