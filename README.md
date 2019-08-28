@@ -15,6 +15,8 @@
    *	TOU now has text for dedicated BPS kiosks – Relates SE-1316
    *	Bolded cost and time values in rate card details for TOU so it’s more obvious how much time, service, or other benefits/services are being charged for.
    *	Transaction Lookup Tool now has a new UI with an improved experience! 
+   * Session Details are now organized by date/time rather than First In last out order
+   
 
 
 *	Windows Client
@@ -26,3 +28,7 @@
     *	Support for Deepfreeze included in 10.14.
 
 ### Support Escalations Adddressed by the 3.1 Release
+* SE-1316, Session header for TOU on BPS Kiosks
+* SE- 1505 & 1558, Mac Screensave on system idle
+* SE-1044, Suppress updates on session start for Mac
+* SE-1555, Whitescreen issue for low connectivity systems
