@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## SA10 V3.1
+*	Platform
+    *	Fully Configurable in Salesforce!! - A first in Uniguest History!  
+        *	  Manage Assets remotely from the platform you all know and love.
+        *	  Update fleets in bulk with respect to Flag, Brand, and Location.
+        *	  Make minute changes to individual assets.
+        *   Reference assets in cases to make reporting and tracking escalations easier
+        *	  GBC is completely gone, no more wondering where an asset lives! 
+   *	Completely New Backend.  
+         *   More secure and robust against threats near and far.
+   *	All endpoints require a subscription key to accept a request from the client! Not just anyone can send requests to the backend now, you’ve got to be on the list!  
+         * Completely scalable cloud architecture! (Shiny!) 
+   *	The more instances of SA10 that are added, the more the system automatically scales and allocates processing power on the servers.
+   *	New Registration experience for the new SA10!
+   *	TOU now has text for dedicated BPS kiosks – Relates SE-1316
+   *	Bolded cost and time values in rate card details for TOU so it’s more obvious how much time, service, or other benefits/services are being charged for.
+   *	Transaction Lookup Tool now has a new UI with an improved experience! 
 
-You can use the [editor on GitHub](https://github.com/Uniguest-Product/SecureAdvantage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*	Windows Client
+    *	Added Serial Number to the help window.
+    *	Override for Printer Name, if it’s just a B&W printer, we won’t charge for color prints!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*	Mac Client
+    *	Support for Deepfreeze included in 10.14.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Uniguest-Product/SecureAdvantage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support Escalations Adddressed by the 3.1 Release
