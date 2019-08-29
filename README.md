@@ -35,5 +35,15 @@
 * SE-1316, Session header for TOU on BPS Kiosks
 * SE-1505 & 1558, Mac Screensave on system idle
 * SE-1044, Suppress updates on session start for Mac
+
+
+### Staged for 3.1.1
+A number of features and fixes are being tested and will be deployed as a small patch, after the main 3.1 deployment. 
+
+* Uniguest Cloud Print - Print files from the internet using a SA10 public use kiosk!
+* Browser Compatibility Updates for Unibrowse
+* Flexible UI System that supports IHG UI and others!
 * SE-1555, Whitescreen issue for low connectivity systems
+* SE-1537, Default Weather to Lat/Long instead of HTML5 Geolocation
+* 
 
