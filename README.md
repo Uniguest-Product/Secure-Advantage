@@ -45,5 +45,6 @@ A number of features and fixes are being tested and will be deployed as a small 
 * Flexible UI System that supports IHG UI and others!
 * SE-1555, Whitescreen issue for low connectivity systems
 * SE-1537, Default Weather to Lat/Long instead of HTML5 Geolocation
-* 
+* News Regionalization and suport for new, news vendors!
+* Browser Compatibility Updates for Unibrowse!
 
