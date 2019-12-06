@@ -51,7 +51,7 @@ A small patch is being deployed to the fleet currently (As of 12/9). This includ
 
 ### 3.1.2
 The 3.1.2 server side update will resolve the issues with Bill-To-Room and is currently behind the 3.1.1 client deployment. This relates to a smattering of support escalations. This list will be updated as more SEs are found that relate to the issues. 
-* SE-1621
+* SE-1621 - Bill to Room does not work on 3.1 Client
 
 
 ### 3.2
