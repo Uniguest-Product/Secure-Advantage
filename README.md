@@ -37,8 +37,24 @@
 * SE-1044, Suppress updates on session start for Mac
 
 
-### Staged for 3.1.1
-A number of features and fixes are being tested and will be deployed as a small patch, after the main 3.1 deployment. 
+### 3.1.1 Patch
+A small patch is being deployed to the fleet currently (As of 12/9). This includes a Client Update as well as a Server Side Update (already done as of 12/5).
+
+
+#### Backend
+* SE-1626 - Services Not Availabe
+* * Note: The backend deployment should reduce the amount of issues related to TOU not starting, and having incomplete UI
+
+#### Client
+* SE-1604 - Loss of Registration Issues due to file permissions 
+
+
+### 3.1.2
+The 3.1.2 server side update will resolve the issues with Bill-To-Room and is currently behind the 3.1.1 client deployment. This relates to a smattering of support escalations. This list will be updated as more SEs are found that relate to the issues. 
+* SE-1621
+
+
+### 3.2
 
 * Uniguest Cloud Print - Print files from the internet using a SA10 public use kiosk!
 * Browser Compatibility Updates for Unibrowse
