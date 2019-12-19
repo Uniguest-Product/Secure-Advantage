@@ -1,0 +1,41 @@
+#SA10 Sidebar
+
+entries:
+- title: Secure Advantage
+  product: Secure Advantage
+  version: 
+  folders:
+  - title: Overview
+    output: web
+    folderitems:
+
+    - title: Home
+      url: /SA10.html
+      output: web
+      
+
+  - title: Release Notes
+    output: web
+    folderitems:
+    
+    - title: "3.1.2"
+      url: /3.1.2.html
+      output: web
+
+  - title: Frequently Asked Questions
+    output: web 
+    folderitems:
+      
+      - title: Free to Guest
+        url: /FTGFAQ.html
+        output: web
+
+      - title: Pay Per Use
+        url: /PPUFAQ.html
+        output: web
+
+      - title: Boarding Pass Station
+        url: /BPSFAQ.html
+        output: web
+
+

@@ -1,0 +1,33 @@
+## Product Place Default Sidebar
+
+entries:
+- title: The Product Place
+  folders:
+  - title: Overview
+    output: web
+    folderitems:
+    - title: Home
+      output: web
+      url: index.html
+  - title: Products
+    output: web
+    folderitems:
+    - title: Secure Advantage
+      output: web
+      url: SA10.html
+
+    - title: Hospitality Fitness Kiosk
+      output: web
+      url: HFK.html
+      
+    - title: ScreenBeam
+      output: web
+      url: ScreenBeam.html
+
+    - title: UniCMS
+      output: web
+      url: UniCMS.html 
+
+    - title: Samsung Flip
+      output: web
+      url: SFlip.html 
