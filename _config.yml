@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 repository: tomjoht/documentation-theme-jekyll
 
 output: web
@@ -116,3 +117,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 
 github: [metadata]
+=======
+theme: jekyll-theme-time-machine
+>>>>>>> f1d1552cd05f9abc398d80deaa75870eb8cef9f6
