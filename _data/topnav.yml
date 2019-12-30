@@ -7,7 +7,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Uniguest Outernet Stuff
+    - title: Uniguest Outernet
       folderitems:
         - title: Uniguest Main Website
           external_url: https://uniguest.com
